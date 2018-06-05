@@ -1,0 +1,120 @@
+header{
+	font-family: 'Ubuntu', sans-serif;
+}
+.top-left ul li{
+	display: inline;
+} 
+.top-left a{
+	text-decoration: none;
+}
+.top-left ul{
+	display: inline;
+}
+.top-left{
+	display: inline;
+}
+.topbar{
+	background-color: #999;
+}
+.top-right{
+	display: inline;
+}
+.top-right ul li{
+	display: inline;
+}
+.top-right a{
+	text-decoration: none;
+	padding-right: 30px;
+}
+.top-right ul{
+	display: inline;
+	margin-left: 600px;
+}
+.top-left ul a:hover{
+	background-color: black;
+}
+.top-right ul a:hover{
+	background-color: black;
+}
+.logo{
+	display: inline;
+}
+.primary-navigation ul li{
+	display: inline;
+	padding-left: 30px;
+}
+.nav{
+	display: inline;
+}
+.primary-navigation{
+	display: inline;
+}
+.primary-navigation ul{
+	margin-left: 100px;
+}
+.nav a{
+	text-decoration: none;
+}
+.header-search{
+	display: inline;
+}
+.header-cart{
+	display: inline;
+}
+.nav a:hover{
+	color: black;
+}
+.site-content-btn{
+	text-decoration: none;
+}
+.masthead{
+	height: 100px;
+}
+.site-content{
+	background-color: red;
+	height: 400px;
+}
+.content-title{
+	padding-top: 150px;
+	margin-left: 200px;
+	font-size: 40px;
+}
+.content-subtitle{
+	margin-left: 250px;
+	font-size: large;
+}
+.site-content-btn{
+	margin-left: 300px;
+	border: 10px solid black;
+	color: white;
+	padding: 4px;
+}
+.site-content{
+	font-family: 'Bree Serif', serif;
+}
+.section-title{
+	display: inline;
+	margin-left: 150px;
+	color: white;
+}
+.section-subtitle{
+	display: inline;
+	margin-left: 650px;
+}
+.section-subtitle a{
+	text-decoration: none;
+	color: white;
+}
+.section-product ul li{
+	list-style-type: none;
+}
+.products header a{
+	display: inline;
+}
+.section {
+	background-color: black;
+}
+.image{
+	display: inline;
+}
+
